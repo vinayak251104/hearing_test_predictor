@@ -1,4 +1,4 @@
-#Hearing Test Predictor
+### Hearing Test Predictor
 
 A simple Streamlit web app that predicts hearing issues based on age and physical test score using a logistic regression model.
 
