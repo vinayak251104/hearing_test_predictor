@@ -115,13 +115,3 @@ with col2:
 
     st.write(f"**Min Age:** {df['age'].min()}")
 
-
-    
-
-
-
-
-
- 
-
-                               
